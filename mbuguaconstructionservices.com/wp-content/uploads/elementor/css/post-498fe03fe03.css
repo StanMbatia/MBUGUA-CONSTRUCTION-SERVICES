@@ -1,0 +1,62 @@
+.elementor-498 .elementor-element.elementor-element-2df84365:not(.elementor-motion-effects-element-type-background),
+.elementor-498 .elementor-element.elementor-element-2df84365>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-image: url("../../2024/01/MB/19.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.elementor-498 .elementor-element.elementor-element-2df84365>.elementor-background-overlay {
+  background-color: #070707;
+  opacity: 0.72;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-498 .elementor-element.elementor-element-2df84365 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  margin-top: -73px;
+  margin-bottom: 0px;
+  padding: 170px 0px 158px 0px;
+}
+
+.elementor-498 .elementor-element.elementor-element-7705fa99 .elementskit-section-title-wraper .elementskit-section-title {
+  color: #ffffff;
+  margin: 0px 0px 25px 0px;
+  font-family: "Lato", Sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.elementor-498 .elementor-element.elementor-element-7705fa99 .elementskit-section-title-wraper .elementskit-section-title>span {
+  color: #2575fc;
+}
+
+.elementor-498 .elementor-element.elementor-element-7705fa99 .elementskit-section-title-wraper .elementskit-section-title:hover>span {
+  color: #000000;
+}
+
+.elementor-498 .elementor-element.elementor-element-befec96 .gallery-item {
+  padding: 0 7px 7px 0;
+}
+
+.elementor-498 .elementor-element.elementor-element-befec96 .gallery {
+  margin: 0 -7px -7px 0;
+}
+
+.elementor-498 .elementor-element.elementor-element-befec96 .gallery-item .gallery-caption {
+  text-align: center;
+}
+
+@media(min-width:768px) {
+  .elementor-498 .elementor-element.elementor-element-661b5090 {
+    width: 20%;
+  }
+
+  .elementor-498 .elementor-element.elementor-element-12942e98 {
+    width: 58.702%;
+  }
+
+  .elementor-498 .elementor-element.elementor-element-19bbe943 {
+    width: 20.63%;
+  }
+}
